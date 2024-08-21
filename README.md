@@ -5,7 +5,8 @@ I'm JohnRichard4096,a passionate software developer proficient in a variety of p
 - 🌟 **Programming Languages**: Java, C++, Python  
 - 🌐 **Frontend Development**: HTML, CSS  
 - 🐧 **Operating Systems**: Linux  
-- 💾 **Databases**: MySQL  
+- 💾 **Databases**: MySQL
+- 🎰 **Other**: Markdown, Git, Vim etc......
 
 
 ## Interests and Goals  
