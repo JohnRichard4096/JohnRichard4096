@@ -15,7 +15,7 @@ I am keen on continuously learning new technologies and enhancing my programming
 Feel free to check out my projects or reach out to connect! 😊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichard4096&theme=transparent"></center></p>
+<p align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichard4096&theme=transparent"></center></p>
 <p align="left">
   <a href="https://github.com/JohnRichard4096/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
 </p>
