@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm JohnRichard4096
+
+a java/python/c++/html/js developer 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JohnRichard4096/JohnRichard4096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
