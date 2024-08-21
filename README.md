@@ -12,7 +12,7 @@ I'm JohnRichard4096,a passionate software developer proficient in a variety of p
 I am keen on continuously learning new technologies and enhancing my programming skills. I aim to participate in more open-source projects and contribute to the developer community.  
 
 Feel free to check out my projects or reach out to connect! 😊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JohnRichard4096/JohnRichard4096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
