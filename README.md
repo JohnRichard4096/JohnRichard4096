@@ -7,8 +7,6 @@ I'm JohnRichard4096,a passionate software developer proficient in a variety of p
 - 🐧 **Operating Systems**: Linux  
 - 💾 **Databases**: MySQL  
 
-## Project Experience  
-I have contributed to multiple projects, including enterprise applications, web applications, and data analysis tools. I am enthusiastic about open-source projects and enjoy sharing knowledge and experience with the community.  
 
 ## Interests and Goals  
 I am keen on continuously learning new technologies and enhancing my programming skills. I aim to participate in more open-source projects and contribute to the developer community.  
