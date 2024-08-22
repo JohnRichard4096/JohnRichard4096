@@ -13,6 +13,8 @@ I'm JohnRichard4096,a passionate software developer proficient in a variety of p
 I am keen on continuously learning new technologies and enhancing my programming skills. I aim to participate in more open-source projects and contribute to the developer community.  
 
 Feel free to check out my projects or reach out to connect! 😊
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichard4096&theme=transparent"></center></p>
