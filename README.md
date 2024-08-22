@@ -1,4 +1,4 @@
-wn## Hi there 👋
+## Hi there 👋
 I'm JohnRichard4096,a passionate software developer proficient in a variety of programming languages and technologies to build efficient and innovative solutions.  
 
 ## Skills  
