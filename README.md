@@ -1,6 +1,7 @@
-## 👋 Hi there! I'm JohnRichard4096
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F79913&width=700&lines=%F0%9F%91%8B+Hi+there!;I'm+JohnRichard4096!;A+passionate+software+developer;focused+on+building++efficient+and+innovative+solutions.+)](https://git.io/typing-svg)
 
-A passionate software developer focused on building efficient and innovative solutions.  
+---
+
 [![GitHub Profile](https://img.shields.io/badge/Portfolio-%E2%9A%99%EF%B8%8F-black?style=flat&logo=github)](https://github.com/JohnRichard4096)
 
 ---
