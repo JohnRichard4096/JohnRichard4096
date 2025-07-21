@@ -3,6 +3,7 @@
 ---
 
 [![GitHub Profile](https://img.shields.io/badge/Portfolio-%E2%9A%99%EF%B8%8F-black?style=flat&logo=github)](https://github.com/JohnRichard4096)
+*INTP 5w4*
 
 ---
 
