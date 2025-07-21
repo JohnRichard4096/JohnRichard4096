@@ -2,8 +2,10 @@
 
 ---
 
-[![GitHub Profile](https://img.shields.io/badge/Portfolio-%E2%9A%99%EF%B8%8F-black?style=flat&logo=github)](https://github.com/JohnRichard4096)
-*INTP 5w4*
+*INTP 5w4* · *高效创新解决方案开发* · *系统架构探索*
+
+[![GitHub Profile](https://img.shields.io/badge/Portfolio-%E2%9A%99%EF%B8%8F-black?style=flat&logo=github)](https://github.com/JohnRichard4096/JohnRichard4096)
+
 
 ---
 
