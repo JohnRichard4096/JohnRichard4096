@@ -4,7 +4,7 @@
 
 `FullStack` · `OpenSource` · `SystemArchitecture` · `GitHub` · `INTP 5w4`
 
-[![GitHub Profile](https://img.shields.io/badge/Portfolio-%E2%9A%99%EF%B8%8F-black?style=flat&logo=github)](https://github.com/JohnRichard4096/JohnRichard4096)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohnRichard4096&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 ---
