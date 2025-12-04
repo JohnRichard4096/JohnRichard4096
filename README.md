@@ -8,20 +8,6 @@
 
 
 ---
-<!--
-
-### 🚀 Projects & Stats
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/JohnRichard4096">
-        <img src="https://github-readme-stats.vercel.app/api?username=JohnRichard4096&theme=transparent&show_icons=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
--->
 
 ### 🛠️ Technical Skills
 
@@ -32,6 +18,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 
 **Still Learning**
@@ -41,7 +29,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 **Web & Infrastructure**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://jenkins.micro-wave.cc)
