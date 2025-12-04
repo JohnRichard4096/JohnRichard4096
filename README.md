@@ -23,9 +23,6 @@
 
 -->
 
-
----
-
 ### 🛠️ Technical Skills
 
 **Programming**  
