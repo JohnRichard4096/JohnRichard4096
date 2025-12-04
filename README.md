@@ -8,6 +8,7 @@
 
 
 ---
+<!--
 
 ### 🚀 Projects & Stats
 <table>
@@ -20,6 +21,7 @@
   </tr>
 </table>
 
+-->
 
 
 ---
@@ -72,5 +74,4 @@
 
 ### 🔗 Connect with Me
 * 📫 Mail me at [here](mailto:windowserror@163.com)
-* 🐧 My QQ number: 3196373166
-* 😺 GitHub: [JohnRichard4096](https://github.com/JohnRichard4096)
+* ✈ Telegram [JohnRichard4096](https://t.me/JohnRichard4096)
