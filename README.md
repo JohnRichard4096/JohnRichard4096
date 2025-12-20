@@ -41,19 +41,4 @@
 
 ### 🔗 Connect with Me
 * 📫 Mail me at [here](mailto:windowserror@163.com)
-* ✈ Telegram [JohnRichard4096](https://t.me/JohnRichard4096)![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
-
----
-
-### 🌟 Interests & Goals
-- Continuously learning new technologies and enhancing programming skills
-- Contributing to open-source projects and developer community
-- Exploring full-stack development and system architecture
-
----
-
-### 🔗 Connect with Me
-* 📫 Mail me at [here](mailto:windowserror@163.com)
 * ✈ Telegram [JohnRichard4096](https://t.me/JohnRichard4096)
