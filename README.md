@@ -4,7 +4,11 @@
 
 `FullStack` · `OpenSource` · `SystemArchitecture` · `GitHub` · `INTP 5w4`
 
-![GitHub Card](https://githubcard.com/JohnRichard4096.svg)
+---
+
+### 🚀 Github Stats
+
+![Stats](https://githubcard.com/JohnRichard4096.svg?d=AGzwSYED)
 
 ---
 
