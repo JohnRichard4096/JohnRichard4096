@@ -4,7 +4,7 @@
 
 `FullStack` · `OpenSource` · `SystemArchitecture` · `GitHub` · `INTP 5w4`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRichard4096&show_icons=true&theme=radical)
+![GitHub Card](https://githubcard.com/JohnRichard4096.svg)
 
 ---
 
