@@ -53,7 +53,7 @@
 <details><summary>Signature</summary>
 
 ```python
-bytes(x ^ y for x, y in zip("日鞠ヒマリ".encode("utf-8"), "JohnRichard4096".encode("utf-8"))).hex()
+bytes(x ^ y for x, y in zip(b"日鞠ヒマリ", b"JohnRichard4096")).hex()
 ```
 
 </details>
