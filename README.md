@@ -49,3 +49,11 @@
 ### 🔗 Connect with Me
 * 📫 Mail me at [here](mailto:windowserror@163.com)
 * ✈ Telegram [JohnRichard4096](https://t.me/JohnRichard4096)
+
+<details><summary>Signature</summary>
+
+```python
+bytes(x ^ y for x, y in zip("日鞠ヒマリ", "JohnRichard4096")).hex()
+```
+
+</details>
